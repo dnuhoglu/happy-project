@@ -1,4 +1,6 @@
-# Porject Definition
+# Project Definition
+
+This is a course project for CS210 - Introduction to Data Science course in Sabancı University.
 
 ## Data
 
